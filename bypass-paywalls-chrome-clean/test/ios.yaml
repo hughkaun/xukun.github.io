@@ -81,6 +81,7 @@ proxies:
   password: oQlBRJWnvp
   sni: a96c1bd6.proxy.zestbuy.ai
   udp: true
+  skip-cert-verify: true
 
 # 代理组策略
 # 策略组示例请查阅 Clash 项目 README 以使用最新格式：https://github.com/Dreamacro/clash/blob/master/README.md
